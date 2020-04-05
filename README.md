@@ -1,2 +1,3 @@
 # 2019_summer_proj
-소프트웨어대학 산학협력프로젝트
+College of Computing, Co-op project
+SALA: Smartphone-Assisted Localization Algorithm for Positioning Indoor IoT Devices
